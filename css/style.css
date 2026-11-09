@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  color: #2f3b2f;
+  background-color: #ffffff;
+  margin: 0;
+}
+header {
+  background-color: #e8f0e4;
+  padding: 20px;
+}
+header h1 {
+  color: #7ca37a;
+  margin: 0 0 12px 0;
+}
+nav a {
+  color: #7ca37a;
+  text-decoration: none;
+  margin-right: 16px;
+}
+main {
+  padding: 20px;
+}
+main ing {
+  max-width: 100%;
+  height: auto;
+}
+.newsletter {
+  background-color: #f4f7f2;
+  padding: 16px;
+  margon-top: 24px;
+}
+footer {
+  background-color: #3d5c40;
+  color: #ffffff;
+  padding: 16px;
+  text-align: center;
+}
